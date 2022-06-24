@@ -73,7 +73,7 @@
                 <p>{instructions || 'In a mixing glass half-filled with ice cubes, combine all of the ingredients.' +
                 ' Stir well. Strain into a cocktail glass.'}</p>
             </div>
-            <img alt="drink image" src={drinkPhoto || '/img/defolt_cocktail.jpg'} height="400"/>
+            <img alt="drink image" src={drinkPhoto || './img/defolt_cocktail.jpg'} height="400"/>
         </div>
     </div>
 
